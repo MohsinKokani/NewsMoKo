@@ -19,7 +19,7 @@ NewsMoKo is a React application that allows users to fetch news from various cat
 ## Getting Started
 1. Clone this repository using 
 ```
-git clone https://github.com/your-username/NewsMoKo.git
+git clone https://github.com/MohsinKokani/NewsMoKo.git
 ```
 2. Navigate into the project directory 
 ```
